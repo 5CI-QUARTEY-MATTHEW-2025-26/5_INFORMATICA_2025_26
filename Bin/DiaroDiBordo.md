@@ -33,23 +33,12 @@ L'obiettivo è semplificare la ricerca dell’abitazione, ma anche **creare conn
 
 ### 🧩 **Tecnologie e sviluppo:**
 
-* Frontend: React / HTML-CSS-JS / Bootstrap o Tailwind
-* Backend: Firebase / Supabase (autenticazione, database, storage)
-* API: integrazione con Booking, Idealista, ecc. per recuperare recensioni
-* Extra: geolocalizzazione con Google Maps o Leaflet.js
+* Frontend: React / NEXT-JS / Tailwind
+* Backend: Boh
+
 
 ---
 
 ### 🌐 **Slogan possibile:**
 
 > *"Perché l'università inizia da una buona casa — e dalle persone giuste con cui viverla."*
-
----
-
-## 📝 Ti serve anche:
-
-* una **mappa delle funzionalità?**
-* una **presentazione da portare a scuola?**
-* una **scansione del lavoro mese per mese** per il progetto?
-
-Fammi sapere e ti preparo tutto.
