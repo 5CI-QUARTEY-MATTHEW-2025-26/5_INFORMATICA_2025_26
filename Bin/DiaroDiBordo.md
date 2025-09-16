@@ -7,23 +7,23 @@
 
 ---
 
-## 🏡 **UniTogether – Trova casa. Trova persone. Trova il tuo posto.**
+##  **UniTogether – Trova la tua casa. Trova persone. Trova il tuo posto.**
 
 **UniTogether** è una piattaforma web pensata per accompagnare i giovani diplomati nel passaggio verso la vita universitaria, aiutandoli a trovare **alloggi adatti, affidabili e condivisi** vicino alle loro università.
 L'obiettivo è semplificare la ricerca dell’abitazione, ma anche **creare connessioni** con altri studenti che stanno per affrontare lo stesso percorso.
 
-### 🔍 **Funzionalità principali:**
+###  **Funzionalità principali:**
 
-* 🏠 **Ricerca facilitata di alloggi**: inserendo università, città o zona, il sito mostra abitazioni in affitto, con recensioni e valutazioni.
-* 🌍 **Recensioni raccolte da fonti affidabili**: integra recensioni da siti esterni (es. Booking, Idealista, Immobiliare.it) e le aggrega in un formato chiaro.
-* 🧑‍🎓 **Esperienze condivise da ex universitari**: ex studenti raccontano le loro esperienze abitative, danno consigli su zone da evitare o preferire, coinquilini, costi, e qualità della vita.
-* 👫 **Trova coinquilini compatibili**: sistema per connettersi con altri studenti in cerca di una stanza o di un compagno di appartamento nella stessa città.
-* 🗺️ **Mappa interattiva**: visualizzazione geolocalizzata degli annunci e dei campus universitari, con filtri per distanza, prezzo e tipo di alloggio.
-* 🔒 **Sistema di profili verificati**: per garantire sicurezza e trasparenza, ogni utente ha un profilo con badge (studente, ex studente, proprietario, ecc.)
+*  **Ricerca facilitata di alloggi**: inserendo università, città o zona, il sito mostra abitazioni in affitto, con recensioni e valutazioni.
+*  **Recensioni raccolte da fonti affidabili**: integra recensioni da siti esterni (es. Booking, Idealista, Immobiliare.it) e le aggrega in un formato chiaro.
+*  **Esperienze condivise da ex universitari**: ex studenti raccontano le loro esperienze abitative, danno consigli su zone da evitare o preferire, coinquilini, costi, e qualità della vita.
+*  **Trova coinquilini compatibili**: sistema per connettersi con altri studenti in cerca di una stanza o di un compagno di appartamento nella stessa città.
+*  **Mappa interattiva**: visualizzazione geolocalizzata degli annunci e dei campus universitari, con filtri per distanza, prezzo e tipo di alloggio.
+*  **Sistema di profili verificati**: per garantire sicurezza e trasparenza, ogni utente ha un profilo con badge (studente, ex studente, proprietario, ecc.)
 
 ---
 
-### 🎯 **Obiettivi del progetto:**
+###  **Obiettivi del progetto:**
 
 * Rendere più **umana, sicura e collaborativa** la ricerca di casa per gli studenti universitari
 * Offrire un luogo dove **condividere esperienze reali** ed evitare truffe o brutte sorprese
@@ -31,7 +31,7 @@ L'obiettivo è semplificare la ricerca dell’abitazione, ma anche **creare conn
 
 ---
 
-### 🧩 **Tecnologie e sviluppo:**
+###  **Tecnologie e sviluppo:**
 
 * Frontend: React / NEXT-JS / Tailwind
 * Backend: Boh
@@ -39,6 +39,6 @@ L'obiettivo è semplificare la ricerca dell’abitazione, ma anche **creare conn
 
 ---
 
-### 🌐 **Slogan possibile:**
+###  **Slogan possibile:**
 
 > *"Perché l'università inizia da una buona casa — e dalle persone giuste con cui viverla."*
